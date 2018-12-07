@@ -1,6 +1,6 @@
 /* soundmems_demo
 
-By: paul change
+By: wacky
 
 Date: December 2017
 
