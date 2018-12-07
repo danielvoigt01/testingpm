@@ -1,6 +1,6 @@
 /* soundmems_demo
 
-By: Andrew Tuline
+By: paul change
 
 Date: December 2017
 
